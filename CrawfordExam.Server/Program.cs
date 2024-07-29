@@ -1,5 +1,5 @@
-using CrawfordExam.Infrastructure;
-using CrawfordExam.Infrastructure.Persistence;
+using Exam.Infrastructure;
+using Exam.Infrastructure.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,4 +1,4 @@
-namespace CrawfordExam.Server
+namespace Exam.Server
 {
     public class WeatherForecast
     {

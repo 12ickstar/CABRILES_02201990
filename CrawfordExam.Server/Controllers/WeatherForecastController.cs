@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace CrawfordExam.Server.Controllers
+namespace Exam.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

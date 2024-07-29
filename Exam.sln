@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawfordExam.Server", "CrawfordExam.Server\CrawfordExam.Server.csproj", "{FE69B894-FE22-4C54-888F-683BE3C3F8C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Server", "CrawfordExam.Server\Exam.Server.csproj", "{FE69B894-FE22-4C54-888F-683BE3C3F8C0}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "crawfordexam.client", "crawfordexam.client\crawfordexam.client.esproj", "{2DA728EA-25E5-4182-974F-DF04E91209F8}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "exam.client", "crawfordexam.client\exam.client.esproj", "{2DA728EA-25E5-4182-974F-DF04E91209F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawfordExam.Application", "..\CrawfordExam.Application\CrawfordExam.Application.csproj", "{0F02A873-80CD-4C89-9E43-120FECDE1751}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Application", "..\CrawfordExam.Application\Exam.Application.csproj", "{0F02A873-80CD-4C89-9E43-120FECDE1751}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawfordExam.Infrastructure", "..\CrawfordExam.Infrastructure\CrawfordExam.Infrastructure.csproj", "{A5CC6C29-669C-4EBA-9AEC-BF8A74937F25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Infrastructure", "..\CrawfordExam.Infrastructure\Exam.Infrastructure.csproj", "{A5CC6C29-669C-4EBA-9AEC-BF8A74937F25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawfordExam.Domain", "..\CrawfordExam.Domain\CrawfordExam.Domain.csproj", "{76ECABD6-F4C7-45B1-A852-884281A8C109}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Domain", "..\CrawfordExam.Domain\Exam.Domain.csproj", "{76ECABD6-F4C7-45B1-A852-884281A8C109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

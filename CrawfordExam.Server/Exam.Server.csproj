@@ -17,9 +17,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CrawfordExam.Application\CrawfordExam.Application.csproj" />
-    <ProjectReference Include="..\..\CrawfordExam.Infrastructure\CrawfordExam.Infrastructure.csproj" />
-    <ProjectReference Include="..\crawfordexam.client\crawfordexam.client.esproj">
+    <ProjectReference Include="..\..\CrawfordExam.Application\Exam.Application.csproj" />
+    <ProjectReference Include="..\..\CrawfordExam.Infrastructure\Exam.Infrastructure.csproj" />
+    <ProjectReference Include="..\crawfordexam.client\exam.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
